@@ -2,15 +2,20 @@
 
 A playful single-file timer web app with Boaz holding the clock.
 
-Live page after GitHub Pages is enabled:
+### Live page after GitHub Pages is enabled:
+
+https://dormandel.github.io/BoazTimer/
 
 ```txt
 https://dormandel.github.io/BoazTimer/
 ```
+<details>
 
 ![BoazTimer main screenshot](./screenshots/boaztimer-main.png)
 
 ![BoazTimer settings screenshot](./screenshots/boaztimer-settings.png)
+  
+</details>
 
 ## Features
 
