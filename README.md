@@ -1,6 +1,7 @@
 # BoazTimer Web App — No Install
 
 This version is a single-file web app.
+<details>
 
 ## Run option A — simplest
 
@@ -34,8 +35,7 @@ You can upload `index.html` to any static hosting service:
 - Netlify
 - Vercel
 - any normal web server
+  
+  
+</details>
 
-## Why this version fixes the blank/no CSS issue
-
-The CSS, JavaScript, and Boaz image are all inside `index.html`.
-There are no external `styles.css`, `app.js`, or build paths to break.
