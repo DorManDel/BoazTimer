@@ -1,6 +1,8 @@
 # BoazTimer Web App — No Install
 
 This version is a single-file web app.
+
+## https://dormandel.github.io/BoazTimer/
 <details>
 
 ## Run option A — simplest
